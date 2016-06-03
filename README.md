@@ -1,5 +1,6 @@
 # Chu2-Plus
 A Desktop Tool Package Made in First Group Term Project
+
 *Group Member: Andy Zhangchi Chen, Echo Qiyao Zhou, Elaine Yutong Xie, Maldini Yifan He, Max Yanhao Li and Vince Lineng Cao.*
 
 ![Screen Capture of Chu2-Plus](https://raw.githubusercontent.com/DigiMal/Chu2-Plus/master/Screen%20Capture.png)
