@@ -2,6 +2,8 @@
 A Desktop Tool Package Made in First Group Term Project
 *Group Member: Andy Zhangchi Chen, Echo Qiyao Zhou, Elaine Yutong Xie, Maldini Yifan He, Max Yanhao Li and Vince Lineng Cao.*
 
+![Screen Capture of Chu2-Plus](Chu2-Plus/Screen Capture.png)
+
 ## Calculus
 A mathmatics tool providing a function to solve linear equation(s) with 1, 2, 3 variables,quadratic equation and cubic equation.
 
