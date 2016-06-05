@@ -27,4 +27,4 @@ A image viewer with a color pickup function.
 A copyright page of the little program. Click on the logo to listen a piece of music.
 
 *****
-To close the subprogram windows, ***double click*** on the window. However, for program NotePad, double click on the blue bar; for program Gallery, <kbd>option</kbd> + double click.
+To close the subprogram windows, ***double click*** on the window. However, for program NotePad, double click on the blue bar; for program Gallery, <kbd>option</kbd>/<kbd>alt</kbd> + double click.
